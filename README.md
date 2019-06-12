@@ -40,6 +40,7 @@ Laws, Theories, Principles and Patterns that developers will find useful.
     * [The Dependency Inversion Principle](#the-dependency-inversion-principle)
     * [The DRY Principle](#the-dry-principle)
     * [YAGNI](#yagni)
+    * [The Least Power Principle](#the-least-power-principle)
 * [Reading List](#reading-list)
 * [TODO](#todo)
 
@@ -466,6 +467,20 @@ Adhering to this principle should reduce the amount of unused code in the codeba
 See also:
 
 - [Reading List: Extreme Programming Installed](#reading-list)
+
+### The Least Power Principle
+
+[The Least Power Principle on Wikipedia](https://en.wikipedia.org/wiki/Rule_of_least_power)
+
+> Choose the least powerful \[computer\] language suitable for a given purpose.
+>
+
+This principle suggests choosing the least powerful \[computer\] language suitable for a given purpose. Stated alternatively, given a choice among computer languages, classes of which range from [descriptive](https://en.wikipedia.org/wiki/Declarative_programming) (or declarative) to [procedural](https://en.wikipedia.org/wiki/Procedural_programming), the less procedural, more descriptive the language one chooses, the more one can do with the data stored in that language.
+
+See also:
+
+- [Declarative programming](https://en.wikipedia.org/wiki/Declarative_programming)
+- [Procedural programming](https://en.wikipedia.org/wiki/Procedural_programming)
 
 
 ## Reading List
